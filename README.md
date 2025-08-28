@@ -172,14 +172,3 @@ All operations are logged to `outputs/tooth_numbering.log` with detailed informa
 - Evaluation results
 - Error handling and warnings
 
-## Contributing
-
-This implementation follows the exact specifications from the OralVis AI Research Intern Task. The class order and FDI mapping are immutable and must not be modified.
-
-## GitHub Repository
-
-**Repository URL**: https://github.com/SAISriram19/OralVis
-
-## License
-
-Research and educational use only. Part of the OralVis AI Research Intern Task implementation.
