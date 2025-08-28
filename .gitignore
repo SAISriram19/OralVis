@@ -161,13 +161,15 @@ Thumbs.db
 *.sublime-project
 *.sublime-workspace
 
-# Kiro IDE (keep only specs)
-.kiro/settings/
-.kiro/cache/
-.kiro/logs/
+# Kiro IDE
+.kiro/
 
 # Microsoft Office temporary files
 ~$*
+
+# Project specific files to ignore
+aim.txt
+*.docx
 
 # Backup files
 *.bak
